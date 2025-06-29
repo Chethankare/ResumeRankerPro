@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+python-docx
+spacy
+scikit-learn
+sentence-transformers
+pandas
+plotly-express
+pymupdf
+bcrypt
+python-dotenv

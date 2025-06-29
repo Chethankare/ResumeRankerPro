@@ -1,0 +1,38 @@
+# skills_db.txt
+Python
+JavaScript
+Java
+C++
+C#
+SQL
+NoSQL
+AWS
+Azure
+Google Cloud
+Docker
+Kubernetes
+React
+Angular
+Vue.js
+Node.js
+Express
+Django
+Flask
+Spring Boot
+Machine Learning
+Data Science
+Data Analysis
+TensorFlow
+PyTorch
+Project Management
+Agile
+Scrum
+DevOps
+CI/CD
+Git
+REST API
+GraphQL
+Microservices
+Cybersecurity
+Networking
+UI/UX
