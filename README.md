@@ -5,7 +5,7 @@
 ## Features
 - 🔐 User authentication (login/signup)
 - 📊 Resume ranking by job description relevance
-- 🧠 AI-powered skill matching (TF-IDF and sBERT)
+- 🧠 AI-powered skill matching 
 - 📈 Visual analytics with Plotly
 - 💾 Analysis history tracking
 - 🎚️ Subscription tier management
