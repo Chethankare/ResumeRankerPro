@@ -1,4 +1,3 @@
-```markdown
 # 📄 ResumeRanker Pro
 
 **AI-powered resume analysis tool** that ranks candidates based on job description matching. Features user authentication, subscription tiers, and detailed skill gap analysis.
@@ -138,4 +137,3 @@ PS C:\ResumeRankerPro> venv\Scripts\activate
 (venv) PS C:\ResumeRankerPro> streamlit run app.py
 ```
 Access at: `http://localhost:8501`
-```
