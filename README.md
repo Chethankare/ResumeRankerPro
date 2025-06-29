@@ -2,8 +2,6 @@
 
 **AI-powered resume analysis tool** that ranks candidates based on job description matching. Features user authentication, subscription tiers, and detailed skill gap analysis.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=ResumeRanker+Pro+Interface)
-
 ## Features
 - 🔐 User authentication (login/signup)
 - 📊 Resume ranking by job description relevance
