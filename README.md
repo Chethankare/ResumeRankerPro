@@ -60,17 +60,10 @@ echo "SECRET_KEY=your-secret-key-here" >> .env
 streamlit run app.py
 
 # Access in browser at:
-http://localhost:8501
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.5:8501
 ```
 
-## Docker Deployment
-```bash
-# Build Docker image
-docker build -t resumeranker .
-
-# Run container
-docker run -p 8501:8501 resumeranker
-```
 
 ## File Structure
 ```
